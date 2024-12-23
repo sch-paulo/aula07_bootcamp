@@ -1,0 +1,1001 @@
+Category,Product,Quantity,Sale_Price
+Books,Comics,18,25.39
+Toys,Action Figure,12,40.8
+Groceries,Milk,14,3.78
+Toys,Board Game,17,91.24
+Home,Lamp,11,404.84
+Beauty,Foundation,5,8.86
+Groceries,Rice,11,17.72
+Toys,Board Game,18,53.46
+Groceries,Pasta,20,15.4
+Toys,Action Figure,3,64.29
+Groceries,Pasta,2,19.53
+Beauty,Perfume,13,59.78
+Books,Comics,2,24.88
+Books,Textbook,18,11.56
+Clothing,Jacket,19,100.62
+Toys,Puzzle,9,89.19
+Books,Fiction,12,49.1
+Home,Sofa,9,35.0
+Beauty,Lipstick,11,87.42
+Toys,Puzzle,16,58.98
+Sports,Tennis Racket,12,116.51
+Clothing,Jeans,13,10.31
+Books,Textbook,11,24.09
+Books,Textbook,7,17.5
+Electronics,Headphones,20,1738.97
+Electronics,Smartwatch,5,869.17
+Sports,Tennis Racket,11,255.01
+Toys,Board Game,16,14.74
+Books,Textbook,4,13.36
+Electronics,Laptop,13,1154.55
+Groceries,Pasta,2,10.28
+Books,Fiction,20,9.01
+Books,Non-Fiction,15,36.19
+Electronics,Laptop,10,729.49
+Sports,Soccer Ball,11,296.75
+Home,Sofa,16,292.84
+Groceries,Rice,15,15.91
+Home,Lamp,8,340.6
+Books,Textbook,12,5.67
+Books,Fiction,6,42.61
+Sports,Basketball,3,271.72
+Groceries,Cereal,14,7.71
+Beauty,Mascara,15,20.91
+Sports,Yoga Mat,4,152.96
+Sports,Tennis Racket,17,231.51
+Electronics,Headphones,1,1503.76
+Home,Table,14,112.92
+Toys,Board Game,13,6.67
+Books,Non-Fiction,15,16.79
+Toys,Action Figure,7,44.85
+Toys,Board Game,20,31.18
+Beauty,Lipstick,5,62.37
+Clothing,Dress,14,139.52
+Home,Lamp,5,241.64
+Beauty,Foundation,14,7.9
+Beauty,Foundation,8,11.16
+Toys,Action Figure,10,10.84
+Sports,Tennis Racket,19,53.28
+Sports,Tennis Racket,12,31.13
+Toys,Board Game,10,50.0
+Books,Textbook,9,36.29
+Beauty,Lipstick,9,25.99
+Toys,Board Game,13,25.72
+Books,Textbook,8,37.61
+Beauty,Mascara,19,84.92
+Electronics,Laptop,8,1521.63
+Electronics,Laptop,6,980.46
+Sports,Yoga Mat,1,37.62
+Toys,Board Game,19,95.49
+Home,Sofa,19,219.47
+Toys,Doll,12,62.0
+Books,Non-Fiction,16,13.41
+Clothing,Jeans,7,96.13
+Electronics,Smartphone,10,724.51
+Beauty,Mascara,12,98.56
+Beauty,Lipstick,15,70.11
+Beauty,Perfume,7,95.86
+Home,Chair,19,280.97
+Books,Non-Fiction,20,46.4
+Sports,Tennis Racket,16,255.19
+Books,Fiction,7,45.98
+Electronics,Laptop,4,1476.24
+Groceries,Milk,9,8.73
+Groceries,Milk,2,14.55
+Groceries,Pasta,19,19.72
+Home,Chair,19,198.31
+Electronics,Smartwatch,6,1238.97
+Home,Lamp,17,211.68
+Electronics,Smartwatch,8,1085.56
+Clothing,Dress,2,151.25
+Clothing,Shirt,5,15.56
+Groceries,Milk,7,13.12
+Beauty,Foundation,14,21.01
+Books,Non-Fiction,6,17.82
+Electronics,Headphones,12,254.61
+Books,Non-Fiction,12,42.3
+Sports,Yoga Mat,8,402.79
+Beauty,Perfume,12,19.83
+Beauty,Foundation,5,95.68
+Toys,Doll,3,34.15
+Groceries,Milk,4,9.11
+Electronics,Headphones,15,738.22
+Sports,Soccer Ball,4,444.16
+Beauty,Lipstick,10,9.48
+Books,Fiction,3,5.12
+Beauty,Mascara,13,79.87
+Books,Non-Fiction,9,26.06
+Groceries,Pasta,15,4.09
+Toys,Action Figure,19,41.13
+Home,Table,1,451.08
+Books,Fiction,10,48.61
+Books,Comics,19,12.62
+Home,Sofa,18,175.04
+Sports,Yoga Mat,2,155.73
+Books,Non-Fiction,17,13.61
+Clothing,Shirt,19,157.22
+Home,Chair,4,231.33
+Toys,Action Figure,19,89.82
+Books,Comics,7,37.66
+Electronics,Laptop,11,1084.93
+Sports,Basketball,13,99.47
+Beauty,Mascara,20,29.6
+Electronics,Smartphone,18,677.67
+Sports,Tennis Racket,7,337.37
+Toys,Action Figure,18,22.54
+Electronics,Smartphone,1,910.56
+Books,Non-Fiction,20,28.17
+Home,Table,1,397.1
+Toys,Action Figure,6,70.35
+Clothing,Dress,17,158.23
+Clothing,Dress,1,195.51
+Clothing,Jacket,3,187.97
+Sports,Yoga Mat,16,478.83
+Clothing,Jacket,1,152.3
+Sports,Tennis Racket,6,415.57
+Electronics,Smartphone,16,709.44
+Electronics,Smartwatch,5,1632.91
+Toys,Doll,19,67.33
+Beauty,Perfume,9,85.07
+Home,Table,4,136.32
+Clothing,Shirt,6,99.64
+Electronics,Smartphone,12,1811.45
+Sports,Basketball,16,267.48
+Groceries,Rice,1,12.8
+Home,Chair,2,117.97
+Sports,Basketball,17,289.12
+Home,Table,10,154.72
+Clothing,Dress,8,181.08
+Toys,Puzzle,6,16.79
+Beauty,Foundation,14,37.71
+Groceries,Rice,10,7.8
+Home,Table,17,86.07
+Sports,Tennis Racket,2,359.1
+Electronics,Smartphone,11,1107.68
+Beauty,Lipstick,11,89.46
+Beauty,Perfume,4,81.91
+Groceries,Milk,6,18.31
+Toys,Board Game,17,61.12
+Beauty,Mascara,16,91.38
+Toys,Board Game,1,64.59
+Home,Table,10,33.27
+Clothing,Shirt,12,199.75
+Electronics,Smartphone,18,1402.43
+Books,Comics,6,9.68
+Home,Chair,17,296.84
+Clothing,Shirt,13,173.66
+Books,Non-Fiction,16,16.68
+Sports,Yoga Mat,6,182.8
+Toys,Action Figure,2,54.35
+Books,Textbook,19,5.61
+Clothing,Dress,4,49.82
+Sports,Yoga Mat,17,341.72
+Sports,Basketball,8,321.0
+Clothing,Shirt,19,97.69
+Books,Non-Fiction,17,33.05
+Groceries,Milk,7,9.73
+Home,Sofa,19,392.6
+Home,Table,20,212.78
+Groceries,Rice,13,17.57
+Beauty,Foundation,12,25.29
+Beauty,Mascara,6,42.14
+Sports,Basketball,15,65.99
+Electronics,Laptop,14,350.56
+Groceries,Cereal,3,1.6
+Clothing,Dress,10,71.68
+Toys,Board Game,13,34.86
+Electronics,Smartphone,4,1861.0
+Toys,Action Figure,18,16.18
+Books,Non-Fiction,9,22.25
+Electronics,Headphones,2,1598.9
+Home,Lamp,3,43.45
+Groceries,Pasta,8,14.66
+Electronics,Laptop,15,1559.79
+Clothing,Jeans,6,196.95
+Books,Comics,15,23.54
+Groceries,Rice,7,11.02
+Groceries,Milk,1,17.82
+Books,Fiction,8,9.84
+Clothing,Jacket,3,125.08
+Clothing,Jeans,1,124.8
+Home,Sofa,5,41.88
+Beauty,Lipstick,7,96.7
+Home,Lamp,3,229.65
+Electronics,Headphones,20,140.3
+Clothing,Shirt,6,189.7
+Beauty,Mascara,7,78.23
+Groceries,Rice,6,3.36
+Home,Chair,8,408.33
+Groceries,Rice,6,10.46
+Toys,Puzzle,16,48.73
+Home,Sofa,3,22.25
+Toys,Action Figure,5,61.89
+Toys,Board Game,9,73.87
+Books,Comics,3,33.66
+Toys,Board Game,1,5.59
+Books,Non-Fiction,8,48.96
+Toys,Doll,6,34.86
+Clothing,Dress,17,40.44
+Toys,Puzzle,19,92.32
+Sports,Tennis Racket,6,241.4
+Home,Sofa,9,153.53
+Groceries,Rice,10,13.08
+Clothing,Jeans,7,169.07
+Beauty,Foundation,15,33.44
+Sports,Tennis Racket,4,452.13
+Groceries,Milk,4,5.09
+Beauty,Foundation,12,88.9
+Sports,Yoga Mat,5,233.99
+Electronics,Laptop,10,488.12
+Toys,Action Figure,12,38.7
+Books,Non-Fiction,5,46.91
+Beauty,Perfume,11,77.12
+Toys,Board Game,7,16.49
+Toys,Doll,8,29.9
+Toys,Doll,12,37.81
+Electronics,Smartphone,20,1672.48
+Clothing,Jeans,8,141.48
+Home,Sofa,8,328.62
+Groceries,Cereal,20,7.71
+Sports,Tennis Racket,4,347.53
+Beauty,Mascara,8,71.22
+Home,Sofa,5,331.26
+Home,Lamp,20,122.88
+Books,Fiction,5,28.2
+Groceries,Rice,9,17.67
+Groceries,Rice,11,19.35
+Home,Lamp,3,286.77
+Electronics,Headphones,8,861.32
+Toys,Puzzle,5,89.42
+Toys,Board Game,1,20.15
+Electronics,Laptop,9,1818.39
+Beauty,Mascara,19,29.52
+Clothing,Dress,3,76.31
+Clothing,Shirt,20,13.58
+Books,Comics,20,45.09
+Clothing,Shirt,2,37.14
+Electronics,Smartphone,7,1721.94
+Groceries,Cereal,10,19.17
+Sports,Yoga Mat,20,74.4
+Clothing,Shirt,14,126.93
+Clothing,Dress,7,32.08
+Beauty,Foundation,11,47.94
+Toys,Doll,16,83.19
+Beauty,Lipstick,18,69.04
+Home,Sofa,4,135.65
+Clothing,Dress,16,39.98
+Home,Lamp,4,305.24
+Books,Fiction,2,42.39
+Clothing,Dress,19,41.85
+Sports,Soccer Ball,4,428.33
+Books,Comics,19,45.83
+Groceries,Milk,12,9.3
+Books,Non-Fiction,16,22.59
+Electronics,Headphones,13,1358.74
+Books,Textbook,15,31.34
+Home,Chair,19,46.71
+Beauty,Perfume,4,42.68
+Home,Chair,19,464.99
+Beauty,Foundation,19,88.67
+Beauty,Lipstick,14,10.76
+Sports,Tennis Racket,6,182.14
+Beauty,Lipstick,1,33.06
+Toys,Doll,14,18.94
+Clothing,Shirt,10,113.21
+Electronics,Laptop,15,763.54
+Clothing,Dress,14,89.12
+Sports,Yoga Mat,7,43.2
+Electronics,Smartwatch,15,1291.6
+Clothing,Jeans,7,128.9
+Toys,Board Game,16,83.08
+Books,Textbook,2,21.59
+Groceries,Pasta,9,19.14
+Beauty,Perfume,10,30.22
+Sports,Tennis Racket,6,133.56
+Home,Chair,11,474.65
+Clothing,Shirt,16,166.55
+Home,Table,15,62.98
+Beauty,Mascara,8,58.68
+Home,Lamp,1,104.11
+Clothing,Jeans,1,94.98
+Electronics,Smartwatch,5,1309.22
+Electronics,Smartwatch,8,1544.79
+Groceries,Rice,4,2.64
+Sports,Yoga Mat,8,335.62
+Sports,Basketball,2,121.63
+Clothing,Jacket,9,100.8
+Beauty,Lipstick,20,52.56
+Beauty,Foundation,7,37.7
+Electronics,Smartwatch,15,545.96
+Electronics,Laptop,17,868.41
+Groceries,Pasta,18,1.41
+Books,Non-Fiction,11,36.76
+Home,Lamp,19,308.41
+Groceries,Cereal,6,15.42
+Books,Non-Fiction,5,9.75
+Electronics,Smartwatch,4,1018.88
+Electronics,Headphones,14,1285.35
+Beauty,Mascara,8,95.1
+Clothing,Shirt,2,12.05
+Clothing,Jeans,8,17.92
+Home,Sofa,20,58.43
+Clothing,Jacket,3,159.74
+Toys,Doll,14,39.8
+Toys,Board Game,12,73.88
+Clothing,Jeans,2,102.98
+Home,Chair,18,157.59
+Toys,Puzzle,5,63.92
+Clothing,Shirt,20,63.73
+Beauty,Foundation,1,15.08
+Clothing,Jeans,10,127.52
+Books,Non-Fiction,9,20.78
+Toys,Doll,17,94.66
+Toys,Doll,1,13.66
+Home,Sofa,10,224.18
+Toys,Action Figure,4,23.01
+Beauty,Mascara,7,28.44
+Sports,Soccer Ball,20,59.37
+Clothing,Jeans,15,75.45
+Books,Comics,19,41.82
+Beauty,Perfume,11,16.21
+Beauty,Lipstick,17,36.99
+Books,Fiction,11,31.72
+Beauty,Lipstick,20,48.5
+Sports,Tennis Racket,14,314.14
+Home,Table,1,347.72
+Beauty,Foundation,5,72.14
+Beauty,Mascara,12,99.34
+Clothing,Dress,20,58.25
+Toys,Puzzle,4,76.72
+Toys,Puzzle,4,39.22
+Clothing,Jeans,4,54.72
+Sports,Tennis Racket,19,160.59
+Books,Fiction,9,40.63
+Beauty,Lipstick,12,53.1
+Home,Chair,9,56.1
+Sports,Basketball,2,67.18
+Books,Fiction,14,37.73
+Toys,Action Figure,4,74.19
+Toys,Action Figure,13,85.59
+Toys,Doll,10,92.41
+Beauty,Lipstick,19,6.04
+Books,Comics,15,40.13
+Sports,Tennis Racket,4,455.82
+Toys,Doll,6,19.39
+Groceries,Pasta,1,14.34
+Sports,Tennis Racket,9,68.8
+Sports,Tennis Racket,15,353.54
+Clothing,Jacket,17,102.15
+Clothing,Dress,18,106.49
+Electronics,Headphones,1,1035.61
+Electronics,Smartwatch,4,1346.04
+Beauty,Mascara,10,25.69
+Clothing,Jeans,2,151.43
+Home,Chair,12,49.18
+Beauty,Perfume,13,34.02
+Beauty,Foundation,14,19.7
+Home,Sofa,17,468.62
+Groceries,Milk,20,14.53
+Clothing,Jacket,16,81.32
+Groceries,Milk,13,7.93
+Clothing,Dress,14,166.6
+Toys,Action Figure,17,96.65
+Electronics,Smartwatch,3,1976.28
+Sports,Tennis Racket,16,350.73
+Groceries,Cereal,16,13.05
+Beauty,Perfume,11,38.81
+Clothing,Dress,4,124.93
+Toys,Board Game,13,53.11
+Electronics,Smartwatch,4,333.07
+Home,Table,6,493.27
+Toys,Doll,16,55.16
+Sports,Yoga Mat,6,74.17
+Clothing,Jeans,19,35.74
+Beauty,Lipstick,15,54.34
+Toys,Action Figure,9,94.56
+Clothing,Jacket,1,74.16
+Home,Chair,8,474.57
+Electronics,Smartphone,13,189.99
+Home,Table,4,73.69
+Electronics,Smartphone,18,344.97
+Home,Chair,9,164.94
+Home,Table,5,145.49
+Books,Textbook,18,31.48
+Beauty,Foundation,17,85.52
+Groceries,Rice,16,10.87
+Electronics,Smartphone,17,863.54
+Beauty,Perfume,20,49.84
+Electronics,Smartphone,2,1645.41
+Home,Sofa,16,291.55
+Electronics,Smartphone,11,244.96
+Groceries,Cereal,7,14.4
+Groceries,Pasta,2,17.27
+Books,Non-Fiction,7,49.25
+Books,Comics,18,25.61
+Beauty,Perfume,18,51.25
+Electronics,Smartphone,12,1810.33
+Home,Chair,1,144.27
+Groceries,Milk,9,7.76
+Groceries,Milk,16,9.61
+Sports,Soccer Ball,16,182.62
+Books,Fiction,14,44.33
+Groceries,Rice,17,17.59
+Electronics,Headphones,15,1695.11
+Books,Comics,13,35.79
+Sports,Basketball,2,27.52
+Toys,Doll,19,55.23
+Groceries,Milk,7,1.74
+Beauty,Lipstick,2,93.39
+Groceries,Milk,18,11.89
+Home,Table,7,134.04
+Beauty,Lipstick,10,6.0
+Toys,Board Game,15,97.8
+Books,Textbook,4,7.87
+Electronics,Smartphone,19,1947.34
+Clothing,Jacket,7,57.86
+Beauty,Perfume,6,17.9
+Toys,Puzzle,16,22.75
+Groceries,Cereal,5,16.12
+Toys,Doll,11,48.17
+Beauty,Perfume,20,79.7
+Groceries,Rice,3,10.11
+Sports,Tennis Racket,13,237.85
+Groceries,Pasta,8,6.4
+Groceries,Pasta,5,7.44
+Beauty,Mascara,1,94.36
+Electronics,Laptop,15,1439.78
+Books,Textbook,8,8.54
+Home,Lamp,4,328.87
+Beauty,Lipstick,12,76.12
+Electronics,Laptop,4,773.8
+Groceries,Cereal,17,11.5
+Home,Chair,7,117.45
+Beauty,Mascara,8,28.97
+Toys,Puzzle,2,30.53
+Groceries,Rice,3,2.87
+Beauty,Foundation,6,25.26
+Toys,Action Figure,8,58.39
+Books,Textbook,2,47.39
+Toys,Action Figure,16,12.7
+Groceries,Milk,4,4.44
+Groceries,Cereal,4,10.87
+Books,Textbook,6,27.55
+Electronics,Smartphone,18,1208.67
+Groceries,Rice,17,3.24
+Electronics,Smartphone,3,1035.0
+Clothing,Jeans,11,128.93
+Electronics,Laptop,4,537.18
+Books,Non-Fiction,19,32.34
+Electronics,Smartwatch,11,1941.66
+Beauty,Mascara,1,77.1
+Home,Lamp,4,479.65
+Toys,Action Figure,15,22.39
+Beauty,Lipstick,9,59.67
+Books,Comics,20,10.1
+Beauty,Foundation,12,17.3
+Toys,Action Figure,15,86.44
+Electronics,Smartwatch,18,302.35
+Electronics,Laptop,3,553.38
+Groceries,Milk,9,13.12
+Beauty,Foundation,17,12.83
+Clothing,Jacket,6,157.14
+Toys,Puzzle,8,15.71
+Electronics,Headphones,2,1204.96
+Clothing,Dress,3,25.45
+Groceries,Rice,5,1.18
+Sports,Yoga Mat,12,46.43
+Groceries,Milk,1,14.32
+Beauty,Mascara,12,98.57
+Beauty,Lipstick,18,69.64
+Toys,Doll,7,71.27
+Home,Lamp,19,281.6
+Books,Fiction,15,39.8
+Clothing,Shirt,2,79.22
+Toys,Doll,19,26.52
+Clothing,Jeans,2,103.45
+Beauty,Mascara,15,97.57
+Beauty,Lipstick,11,50.16
+Home,Sofa,19,216.96
+Beauty,Lipstick,15,25.01
+Books,Fiction,6,39.6
+Clothing,Jeans,17,157.52
+Books,Textbook,17,36.17
+Home,Lamp,6,272.48
+Electronics,Smartphone,15,1203.54
+Electronics,Laptop,14,1474.09
+Beauty,Mascara,5,83.6
+Home,Chair,3,267.24
+Home,Table,16,215.73
+Beauty,Mascara,13,38.31
+Home,Lamp,11,393.62
+Toys,Doll,14,74.73
+Toys,Board Game,15,65.44
+Electronics,Smartwatch,7,1068.86
+Books,Textbook,12,45.42
+Sports,Yoga Mat,11,201.52
+Clothing,Jeans,2,41.37
+Electronics,Headphones,19,388.41
+Home,Sofa,11,33.86
+Home,Table,9,345.37
+Electronics,Laptop,14,1068.73
+Home,Table,6,208.35
+Sports,Tennis Racket,11,221.39
+Electronics,Headphones,20,149.61
+Home,Lamp,20,227.29
+Books,Textbook,5,22.77
+Books,Comics,6,25.61
+Books,Non-Fiction,16,38.17
+Clothing,Jeans,8,193.46
+Electronics,Headphones,18,1392.02
+Groceries,Milk,15,12.47
+Groceries,Cereal,3,4.44
+Clothing,Jeans,1,158.25
+Clothing,Shirt,9,195.65
+Toys,Board Game,10,96.1
+Groceries,Cereal,2,16.79
+Clothing,Jacket,20,91.83
+Clothing,Dress,9,173.68
+Electronics,Headphones,15,1276.6
+Home,Sofa,3,295.69
+Groceries,Milk,2,19.43
+Books,Fiction,6,44.77
+Beauty,Perfume,19,47.97
+Electronics,Headphones,11,251.7
+Beauty,Mascara,14,79.04
+Electronics,Laptop,16,1393.1
+Beauty,Mascara,14,6.25
+Home,Lamp,17,498.35
+Home,Sofa,3,180.87
+Home,Lamp,16,199.95
+Home,Table,10,21.08
+Home,Sofa,9,127.91
+Toys,Puzzle,9,33.38
+Home,Chair,9,267.84
+Groceries,Cereal,10,11.09
+Home,Chair,16,239.05
+Clothing,Shirt,14,73.55
+Electronics,Smartphone,13,1341.42
+Groceries,Pasta,15,11.97
+Books,Textbook,6,8.78
+Home,Lamp,19,389.93
+Toys,Board Game,14,39.87
+Clothing,Jeans,20,138.0
+Beauty,Perfume,4,74.77
+Electronics,Smartwatch,19,1391.32
+Groceries,Cereal,4,16.72
+Clothing,Shirt,13,153.04
+Groceries,Rice,5,13.69
+Electronics,Laptop,3,690.64
+Electronics,Smartphone,20,403.98
+Beauty,Mascara,8,71.57
+Toys,Board Game,14,87.37
+Clothing,Jacket,6,87.45
+Books,Textbook,15,22.77
+Toys,Action Figure,17,77.39
+Sports,Tennis Racket,7,388.64
+Beauty,Perfume,19,65.5
+Electronics,Headphones,20,1935.63
+Beauty,Foundation,4,93.17
+Electronics,Laptop,16,1552.54
+Books,Comics,16,45.97
+Home,Table,10,405.04
+Toys,Puzzle,6,65.15
+Groceries,Pasta,8,1.19
+Books,Textbook,7,24.86
+Home,Table,3,496.78
+Groceries,Rice,8,7.4
+Electronics,Headphones,9,1411.2
+Electronics,Headphones,20,103.76
+Home,Sofa,2,233.3
+Groceries,Rice,7,10.54
+Electronics,Laptop,10,443.26
+Groceries,Rice,10,7.74
+Toys,Action Figure,4,90.62
+Sports,Tennis Racket,2,305.65
+Home,Sofa,2,358.21
+Toys,Action Figure,7,43.53
+Groceries,Milk,5,1.93
+Electronics,Smartwatch,11,1121.44
+Toys,Doll,9,10.73
+Electronics,Laptop,11,207.09
+Clothing,Jeans,6,16.21
+Books,Non-Fiction,1,25.26
+Clothing,Dress,13,38.75
+Books,Non-Fiction,3,16.87
+Clothing,Dress,5,48.98
+Electronics,Smartwatch,10,1434.85
+Toys,Puzzle,4,61.66
+Sports,Tennis Racket,12,28.72
+Sports,Soccer Ball,9,324.34
+Beauty,Lipstick,6,97.75
+Books,Fiction,2,11.46
+Home,Chair,12,418.1
+Home,Sofa,6,25.07
+Sports,Basketball,4,475.95
+Clothing,Jeans,7,171.53
+Groceries,Pasta,4,15.89
+Books,Comics,8,17.68
+Home,Sofa,16,321.63
+Home,Table,5,32.04
+Books,Comics,8,5.34
+Home,Chair,3,333.51
+Toys,Board Game,7,67.35
+Toys,Board Game,10,55.82
+Home,Table,8,193.33
+Toys,Doll,6,16.09
+Electronics,Smartwatch,15,886.38
+Home,Lamp,12,145.83
+Groceries,Pasta,10,2.3
+Books,Fiction,6,17.22
+Electronics,Laptop,9,941.36
+Home,Sofa,1,268.65
+Groceries,Milk,3,12.72
+Books,Non-Fiction,1,14.97
+Home,Sofa,17,224.85
+Clothing,Shirt,10,169.67
+Toys,Doll,16,27.94
+Beauty,Foundation,3,27.55
+Toys,Doll,19,80.74
+Home,Sofa,3,28.75
+Home,Sofa,18,410.98
+Groceries,Milk,5,12.72
+Sports,Basketball,8,121.61
+Sports,Tennis Racket,20,252.28
+Home,Sofa,3,22.36
+Electronics,Laptop,15,1994.1
+Books,Non-Fiction,6,33.63
+Electronics,Smartwatch,7,959.14
+Home,Table,16,89.26
+Clothing,Dress,16,21.9
+Groceries,Cereal,12,18.36
+Toys,Action Figure,17,44.13
+Groceries,Milk,11,7.69
+Clothing,Jacket,3,69.93
+Toys,Action Figure,5,82.37
+Books,Non-Fiction,10,43.38
+Home,Sofa,15,87.97
+Beauty,Lipstick,16,26.68
+Electronics,Headphones,13,1405.11
+Electronics,Smartphone,8,574.55
+Electronics,Laptop,20,1068.97
+Sports,Basketball,16,273.49
+Toys,Puzzle,10,35.22
+Home,Chair,11,400.34
+Clothing,Jacket,8,165.35
+Books,Fiction,3,20.55
+Sports,Basketball,13,105.53
+Electronics,Headphones,18,838.01
+Groceries,Milk,10,2.88
+Sports,Yoga Mat,20,291.75
+Beauty,Perfume,12,30.9
+Sports,Soccer Ball,4,299.7
+Books,Non-Fiction,15,45.83
+Clothing,Jacket,3,26.9
+Beauty,Lipstick,10,87.83
+Toys,Board Game,13,66.7
+Beauty,Mascara,6,9.69
+Home,Sofa,13,182.77
+Groceries,Rice,18,7.6
+Sports,Basketball,11,137.84
+Books,Non-Fiction,8,16.97
+Electronics,Smartwatch,12,1446.81
+Toys,Board Game,2,24.37
+Toys,Action Figure,11,6.18
+Toys,Doll,3,16.75
+Sports,Basketball,15,272.17
+Groceries,Rice,16,4.78
+Beauty,Foundation,8,16.86
+Clothing,Jeans,3,154.63
+Clothing,Dress,14,197.65
+Sports,Basketball,13,413.57
+Home,Sofa,7,43.72
+Sports,Basketball,13,18.48
+Toys,Action Figure,2,90.43
+Beauty,Foundation,5,43.34
+Clothing,Jacket,14,117.73
+Books,Textbook,18,40.97
+Beauty,Foundation,6,19.55
+Toys,Board Game,4,42.62
+Home,Table,10,240.42
+Electronics,Smartwatch,10,1394.06
+Books,Textbook,3,43.02
+Electronics,Laptop,15,1800.61
+Clothing,Jeans,3,178.71
+Groceries,Milk,7,18.45
+Sports,Tennis Racket,19,228.37
+Books,Textbook,18,17.51
+Books,Non-Fiction,3,17.64
+Groceries,Pasta,19,5.55
+Groceries,Pasta,19,15.64
+Electronics,Headphones,5,882.44
+Home,Lamp,17,475.19
+Toys,Doll,13,43.22
+Beauty,Foundation,16,68.23
+Groceries,Milk,16,11.21
+Electronics,Laptop,20,1172.66
+Toys,Board Game,5,69.2
+Toys,Action Figure,6,76.99
+Toys,Board Game,3,32.28
+Toys,Action Figure,3,60.26
+Beauty,Mascara,17,79.37
+Electronics,Laptop,18,659.12
+Beauty,Lipstick,19,72.71
+Home,Sofa,15,321.85
+Books,Textbook,2,19.32
+Beauty,Lipstick,20,21.64
+Beauty,Mascara,4,12.99
+Books,Comics,18,44.88
+Books,Comics,18,19.81
+Home,Chair,11,91.51
+Books,Fiction,11,33.01
+Electronics,Laptop,9,147.64
+Groceries,Milk,17,3.31
+Groceries,Rice,14,16.44
+Home,Lamp,8,34.5
+Groceries,Rice,6,16.27
+Toys,Action Figure,12,25.54
+Beauty,Foundation,1,84.5
+Beauty,Perfume,4,27.88
+Toys,Puzzle,16,7.76
+Clothing,Jeans,18,68.97
+Sports,Soccer Ball,6,331.62
+Clothing,Jacket,19,95.47
+Beauty,Foundation,2,19.02
+Toys,Doll,12,16.32
+Electronics,Smartwatch,19,510.11
+Beauty,Perfume,11,94.51
+Beauty,Mascara,19,72.88
+Beauty,Foundation,14,46.11
+Books,Fiction,2,38.77
+Sports,Soccer Ball,11,280.16
+Sports,Yoga Mat,11,288.1
+Toys,Board Game,15,80.5
+Sports,Yoga Mat,14,413.34
+Groceries,Pasta,17,17.63
+Books,Comics,1,33.2
+Home,Lamp,16,487.22
+Electronics,Smartphone,5,236.3
+Toys,Puzzle,14,73.65
+Electronics,Smartphone,9,591.15
+Home,Table,7,462.86
+Groceries,Rice,16,7.35
+Groceries,Cereal,9,9.8
+Electronics,Smartphone,3,393.84
+Home,Sofa,5,37.77
+Home,Table,8,338.43
+Groceries,Pasta,18,10.58
+Electronics,Smartwatch,20,655.87
+Electronics,Smartphone,3,1378.45
+Books,Textbook,7,41.35
+Clothing,Shirt,7,147.88
+Toys,Board Game,9,88.29
+Groceries,Cereal,12,14.67
+Sports,Basketball,19,102.95
+Groceries,Milk,12,10.42
+Electronics,Headphones,12,1361.24
+Books,Comics,10,26.08
+Toys,Board Game,2,48.75
+Sports,Yoga Mat,11,166.54
+Toys,Board Game,3,58.96
+Groceries,Pasta,14,9.67
+Toys,Action Figure,3,94.64
+Sports,Tennis Racket,10,477.69
+Home,Lamp,14,498.64
+Books,Comics,12,37.11
+Sports,Basketball,6,490.45
+Electronics,Smartphone,15,1302.82
+Clothing,Dress,1,78.55
+Sports,Tennis Racket,13,139.06
+Sports,Tennis Racket,19,210.11
+Toys,Board Game,4,78.94
+Books,Comics,10,22.56
+Toys,Board Game,4,59.47
+Books,Non-Fiction,8,11.54
+Home,Table,16,177.56
+Sports,Tennis Racket,6,469.05
+Clothing,Jeans,14,108.41
+Home,Table,17,474.86
+Toys,Doll,17,73.89
+Groceries,Milk,1,11.85
+Books,Textbook,13,37.36
+Toys,Board Game,5,58.12
+Sports,Yoga Mat,15,220.29
+Home,Table,12,305.11
+Beauty,Lipstick,17,14.35
+Home,Chair,9,475.53
+Home,Lamp,18,39.5
+Sports,Soccer Ball,18,312.37
+Home,Table,14,87.93
+Sports,Basketball,1,156.06
+Electronics,Headphones,3,1820.5
+Home,Sofa,2,295.82
+Home,Chair,11,68.62
+Home,Table,2,204.41
+Beauty,Foundation,11,93.55
+Beauty,Mascara,8,36.45
+Clothing,Jeans,17,114.32
+Home,Lamp,8,455.47
+Home,Lamp,3,372.46
+Electronics,Smartphone,11,328.2
+Home,Chair,13,101.38
+Clothing,Dress,18,137.22
+Beauty,Lipstick,18,84.29
+Clothing,Jacket,14,162.44
+Sports,Tennis Racket,1,421.45
+Toys,Action Figure,11,31.5
+Toys,Doll,9,21.94
+Toys,Puzzle,2,65.4
+Books,Non-Fiction,9,44.88
+Electronics,Headphones,5,1747.26
+Beauty,Foundation,10,5.46
+Toys,Doll,4,13.26
+Sports,Tennis Racket,19,495.7
+Sports,Tennis Racket,14,490.33
+Groceries,Pasta,12,10.17
+Electronics,Laptop,9,1502.83
+Sports,Soccer Ball,16,348.27
+Sports,Basketball,15,33.03
+Sports,Tennis Racket,17,301.62
+Clothing,Jacket,2,29.76
+Electronics,Laptop,10,399.35
+Clothing,Dress,14,167.78
+Electronics,Smartphone,12,481.43
+Clothing,Jeans,6,23.33
+Electronics,Smartphone,14,957.54
+Beauty,Perfume,4,92.12
+Books,Non-Fiction,19,39.32
+Electronics,Laptop,19,401.26
+Home,Sofa,10,27.03
+Clothing,Jacket,10,149.36
+Sports,Tennis Racket,3,489.64
+Beauty,Lipstick,2,65.58
+Books,Fiction,8,20.68
+Home,Chair,15,308.03
+Home,Table,1,122.94
+Groceries,Pasta,16,2.44
+Beauty,Perfume,6,86.29
+Toys,Doll,2,38.64
+Groceries,Cereal,6,1.25
+Electronics,Smartwatch,15,1661.93
+Electronics,Smartphone,11,1850.65
+Home,Sofa,4,210.25
+Home,Sofa,7,255.63
+Groceries,Pasta,1,8.69
+Books,Fiction,2,36.7
+Toys,Action Figure,20,57.39
+Toys,Puzzle,2,81.82
+Electronics,Smartwatch,11,886.18
+Groceries,Pasta,18,18.44
+Groceries,Milk,3,8.77
+Clothing,Jeans,1,76.83
+Toys,Doll,18,71.19
+Groceries,Milk,10,4.14
+Beauty,Perfume,12,9.81
+Groceries,Milk,3,4.91
+Electronics,Smartwatch,6,327.31
+Groceries,Milk,11,16.56
+Books,Non-Fiction,10,38.55
+Electronics,Smartphone,18,694.05
+Books,Comics,3,10.16
+Electronics,Headphones,15,438.39
+Electronics,Smartphone,11,1812.57
+Electronics,Laptop,15,1085.52
+Books,Fiction,13,27.69
+Home,Lamp,9,299.52
+Home,Table,2,187.68
+Beauty,Perfume,13,52.19
+Books,Comics,16,43.99
+Toys,Puzzle,16,68.6
+Books,Comics,5,13.91
+Toys,Doll,15,51.7
+Sports,Tennis Racket,9,301.41
+Clothing,Jeans,8,77.73
+Toys,Action Figure,8,99.51
+Books,Non-Fiction,15,36.61
+Books,Textbook,4,36.86
+Clothing,Jeans,3,59.1
+Home,Lamp,16,133.2
+Toys,Doll,1,68.77
+Sports,Yoga Mat,10,71.57
+Toys,Action Figure,18,48.86
+Home,Chair,19,177.1
+Electronics,Smartphone,9,1113.74
+Toys,Action Figure,19,86.32
+Toys,Puzzle,15,64.86
+Sports,Soccer Ball,14,41.56
+Home,Sofa,4,286.57
+Electronics,Laptop,19,598.5
+Toys,Doll,12,15.65
+Toys,Doll,18,82.63
+Beauty,Foundation,14,89.99
+Groceries,Milk,15,19.84
+Groceries,Pasta,3,14.22
+Clothing,Shirt,20,50.04
+Electronics,Smartphone,16,361.12
+Home,Sofa,1,58.12
+Electronics,Headphones,12,1241.49
+Home,Table,2,383.3
+Groceries,Pasta,2,16.39
+Beauty,Perfume,3,39.35
+Electronics,Laptop,3,1452.31
+Home,Lamp,15,45.65
+Electronics,Laptop,7,1566.11
+Toys,Action Figure,15,87.45
+Sports,Yoga Mat,10,218.56
+Books,Textbook,4,26.54
+Electronics,Laptop,5,1767.71
+Books,Fiction,3,10.82
+Books,Textbook,18,25.15
+Toys,Action Figure,19,13.59
+Clothing,Jacket,1,143.77
+Electronics,Headphones,15,793.85
+Sports,Basketball,5,292.45
+Books,Non-Fiction,4,6.81
+Beauty,Mascara,15,7.87
+Beauty,Lipstick,14,83.52
+Toys,Action Figure,20,92.56
+Beauty,Mascara,14,99.17
+Clothing,Dress,4,31.41
+Books,Textbook,19,26.64
+Home,Lamp,10,180.65
+Beauty,Foundation,11,9.69
+Clothing,Dress,20,147.82
+Home,Sofa,15,314.17
+Clothing,Dress,19,14.21
+Home,Sofa,14,109.58
+Groceries,Rice,6,7.79
+Sports,Basketball,5,39.1
+Sports,Yoga Mat,9,93.39
+Groceries,Cereal,15,4.33
+Books,Comics,1,8.1
+Sports,Yoga Mat,20,493.72
+Toys,Puzzle,20,36.26
+Home,Sofa,3,151.08
+Sports,Soccer Ball,4,271.7
+Books,Comics,14,36.4
+Toys,Action Figure,11,61.65
+Books,Fiction,20,47.91
+Sports,Soccer Ball,3,306.09
+Beauty,Perfume,8,11.72
+Sports,Basketball,5,173.09
+Books,Fiction,11,42.53
+Home,Lamp,8,109.98
+Clothing,Shirt,12,94.98
+Beauty,Foundation,15,98.22
+Clothing,Dress,20,11.61
+Electronics,Laptop,12,450.63
+Beauty,Mascara,14,87.5
+Groceries,Rice,20,12.23
+Electronics,Laptop,20,1486.23
+Toys,Puzzle,10,29.69
+Clothing,Dress,7,59.42
+Electronics,Smartwatch,2,534.09
+Groceries,Milk,16,11.93
+Home,Table,14,145.23
+Clothing,Dress,18,43.55
+Sports,Soccer Ball,15,343.78
+Home,Lamp,20,110.91
+Beauty,Lipstick,10,30.12
+Beauty,Perfume,11,39.63
+Groceries,Milk,19,6.4
+Clothing,Jeans,6,192.64
+Home,Chair,19,346.09
+Toys,Puzzle,9,78.44
+Toys,Puzzle,9,12.21
+Groceries,Milk,14,7.55
+Clothing,Jeans,1,199.1
+Home,Lamp,9,424.15
+Home,Chair,20,375.75
+Books,Textbook,6,38.68
+Clothing,Dress,11,154.23
+Home,Chair,8,111.99
+Electronics,Laptop,13,245.8
+Toys,Puzzle,19,30.41
+Groceries,Milk,3,11.25
+Books,Non-Fiction,8,20.99
+Beauty,Mascara,14,59.89
+Sports,Soccer Ball,14,111.15
+Sports,Yoga Mat,1,409.77
+Books,Fiction,14,29.11
+Sports,Basketball,13,449.57
